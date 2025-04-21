@@ -5,6 +5,11 @@ The source code related to Sesame CSM has been cloned from [https://github.com/S
 1. Conversation
 2. Speech
 
+To run the application, add a .env file with the huggingface token:
+```
+HF_TOKEN=""
+```
+
 
 **Note: Rest of the documentation below came as a part of the Sesame CSM's git repository.**
 
