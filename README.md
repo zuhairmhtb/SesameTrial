@@ -1,3 +1,13 @@
+# Trial of Sesamce CSM Model
+
+The source code related to Sesame CSM has been cloned from [https://github.com/SesameAILabs/csm.git](https://github.com/SesameAILabs/csm.git). The modified code attempts to generate two type of audio using the Sesame library and other opensource models:
+
+1. Conversation
+2. Speech
+
+
+**Note: Rest of the documentation below came as a part of the Sesame CSM's git repository.**
+
 # CSM
 
 **2025/03/13** - We are releasing the 1B CSM variant. The checkpoint is [hosted on Hugging Face](https://huggingface.co/sesame/csm_1b).
